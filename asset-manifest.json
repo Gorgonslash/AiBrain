@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AiBrain/static/css/main.9e6c7cc1.css",
+    "main.js": "/AiBrain/static/js/main.55cc8cfe.js",
+    "static/js/787.2a112b90.chunk.js": "/AiBrain/static/js/787.2a112b90.chunk.js",
+    "index.html": "/AiBrain/index.html",
+    "main.9e6c7cc1.css.map": "/AiBrain/static/css/main.9e6c7cc1.css.map",
+    "main.55cc8cfe.js.map": "/AiBrain/static/js/main.55cc8cfe.js.map",
+    "787.2a112b90.chunk.js.map": "/AiBrain/static/js/787.2a112b90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e6c7cc1.css",
+    "static/js/main.55cc8cfe.js"
+  ]
+}
